@@ -1,6 +1,7 @@
 # custom ignores
 examples/
 corpora/
+*.zip
 todo.txt
 
 # Byte-compiled / optimized / DLL files
