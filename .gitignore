@@ -1,6 +1,7 @@
 # custom ignores
 examples/
 corpora/
+.vector_cache/
 *.zip
 todo.txt
 
